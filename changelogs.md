@@ -1,5 +1,5 @@
 ShapeShift OS 2.8 Android 11 (30/04/2022) Changelogs:
-- Merged April Security Patch
+- Merged April 2022 Security Patch
 - Fixed AOD Flickering Issues
 - Upstreamed Vantom Kernel to 4.14.272
 - Many more miscellaneous changes
